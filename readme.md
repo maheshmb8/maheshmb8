@@ -1,97 +1,101 @@
-# Hi, I’m Mahesh 👋
+Hi, I’m Mahesh 👋
 
-I’m a data and engineering professional who enjoys building **practical, real-world systems** across analytics, machine learning, computer vision, and automation.
+BI Manager | Data & Analytics Leader | Pragmatic Problem Solver
 
-## 🛠 Skills
+I’m a Manager of BI & Reporting with 10+ years of experience building reliable, real-world data systems that support high-impact business decisions. I currently lead a 9-member global BI team at Saks Global, working across retail functions to turn ambiguous problems into scalable analytics and automation.
 
-### 📊 Data & Analytics
-- Python, SQL, Pandas
-- Data modeling, reporting, and BI
-- Translating business questions into analytical solutions
+I believe complexity must earn its place. The best solutions are often the ones that prioritize reliability, clarity, and business value over technical hype.
 
-### 🤖 Machine Learning & Computer Vision
-- Feature engineering and model training
-- Image processing and quality analysis
-- Pose estimation and multimodal embeddings
-- Model evaluation and error analysis
+🧭 What I Focus On
 
-### ⚙️ Engineering & Automation
-- Scalable and fault-tolerant pipelines
-- Retry, backoff, and failure handling strategies
-- Concurrent processing for large workloads
-- API integrations and data ingestion
+Solving business problems end-to-end, not just building models
 
-### 🧭 Leadership & Ownership
-- End-to-end ownership of analytics and engineering solutions
-- Collaboration with cross-functional stakeholders
-- Building tools that reduce manual effort and improve reliability
+Choosing simple, explainable approaches before reaching for ML
 
+Shipping systems that teams can trust, maintain, and actually use
 
-My work focuses on:
-- Reliability over hype
-- Clear problem framing
-- Solutions that actually ship and get used
+🏗️ Leadership & Ownership
 
----
+Leading and mentoring cross-functional BI teams (9+ members) across Planning, Supply Chain, Digital Ops, and Finance
 
-## 🔧 What I Work On
+Establishing shared intake, prioritization, and ownership to reduce delivery risk and escalations
 
-### 📊 Data & Analytics
-- Business intelligence and reporting
-- Data modeling and pipeline design
-- Turning messy data into usable insights
+Coaching teams to favor stakeholder engagement, progress visibility, and solution clarity over one-time delivery
 
-### 🤖 Machine Learning & Computer Vision
-- Pose estimation and image understanding
-- Feature engineering and model evaluation
-- Applying ML where it genuinely adds value
+Building analytics that measure success in hours saved and decisions improved, not lines of code
 
-### ⚙️ Engineering & Automation
-- Large-scale data and image processing
-- Retry, backoff, and failure-tolerant pipelines
-- Tools that reduce manual effort and improve quality
+🛠️ Core Skills
+📊 Data & Analytics
 
----
+Python, SQL, Pandas
 
-## 📌 Featured Projects
+BI reporting, metric definition, and data modeling
 
-### 🧍 Pose Angle Intelligence
-A computer vision pipeline that classifies human image orientation using:
-- MoveNet pose estimation  
-- CLIP image embeddings  
-- PCA + LightGBM classification  
+Translating ambiguous business questions into actionable insights
 
-Designed to generalize well to **completely unseen images**.
+🤖 Machine Learning & Computer Vision
 
-👉 Repo: `pose-angle-intelligence`
+Feature engineering and model evaluation
 
----
+Image quality analysis and pose estimation
 
-### 🖼️ Broken Image Detection
-A production-style pipeline to detect:
-- Broken or unreachable images  
-- Placeholder / grey images  
-- Duplicate images  
-- Blurry and low-quality assets  
+Applying ML only where it clearly adds value
 
-Built with a strong emphasis on **reliability, scale, and recoverability**.
+⚙️ Engineering & Automation
 
-👉 Repo: `broken-image-detection`
+Scalable, fault-tolerant pipelines
 
----
+Retry, backoff, and failure-handling strategies
 
-### 🌐 Digital Resume
-An interactive, web-based resume showcasing projects and experience in a clean, modern format.
+Concurrent processing for large data and image workloads
 
-👉 Repo: `digital-resume-mahesh`
+API integrations and ingestion pipelines
 
----
+📌 Featured Projects
+🧍 Pose Angle Intelligence
 
-## 🎯 What You’ll See Here
-- Small number of **intentional, well-documented repositories**
-- Real engineering patterns, not toy examples
-- Code that reflects how systems behave in practice
+A computer vision pipeline to classify human image orientation using:
 
----
+MoveNet pose estimation
+
+CLIP image embeddings
+
+PCA + LightGBM classification
+
+Built to generalize well to completely unseen images, with a focus on robustness and practical deployment.
+
+👉 pose-angle-intelligence
+
+🖼️ Broken Image Detection
+
+A production-style system to detect:
+
+Broken or unreachable images
+
+Placeholder or low-quality assets
+
+Duplicate and blurry images
+
+Designed with an emphasis on reliability, scale, and recoverability in large e-commerce catalogs.
+
+👉 broken-image-detection
+
+🌐 Digital Resume
+
+An interactive, web-based portfolio showcasing experience, projects, and leadership approach.
+
+👉 digital-resume-mahesh
+
+✍️ Thought Leadership
+
+I write about data, leadership, and pragmatic decision-making on Medium — especially about when not to over-engineer.
+
+🎯 My Working Philosophy
+
+Reliability over hype
+
+Outcome > output
+
+Simple solutions scale better than clever ones
 
 Thanks for stopping by 🙂
