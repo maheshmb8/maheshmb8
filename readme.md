@@ -2,6 +2,31 @@
 
 I’m a data and engineering professional who enjoys building **practical, real-world systems** across analytics, machine learning, computer vision, and automation.
 
+## 🛠 Skills
+
+### 📊 Data & Analytics
+- Python, SQL, Pandas
+- Data modeling, reporting, and BI
+- Translating business questions into analytical solutions
+
+### 🤖 Machine Learning & Computer Vision
+- Feature engineering and model training
+- Image processing and quality analysis
+- Pose estimation and multimodal embeddings
+- Model evaluation and error analysis
+
+### ⚙️ Engineering & Automation
+- Scalable and fault-tolerant pipelines
+- Retry, backoff, and failure handling strategies
+- Concurrent processing for large workloads
+- API integrations and data ingestion
+
+### 🧭 Leadership & Ownership
+- End-to-end ownership of analytics and engineering solutions
+- Collaboration with cross-functional stakeholders
+- Building tools that reduce manual effort and improve reliability
+
+
 My work focuses on:
 - Reliability over hype
 - Clear problem framing
