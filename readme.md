@@ -1,7 +1,7 @@
 # Hi, I’m Mahesh 👋  
 **BI Manager | Data & Analytics Leader | Pragmatic Problem Solver**
 
-I’m a Manager of BI & Reporting with 11+ years of experience building **reliable, real-world data systems** that support high-impact business decisions. I currently lead a **9-member global BI team at Saks Global**, working across retail functions to turn ambiguous problems into scalable analytics and automation.
+I’m a Manager of BI & Reporting with 12+ years of experience building **reliable, real-world data systems** that support high-impact business decisions. I currently lead a **9-member global BI team at Saks Global**, working across retail functions to turn ambiguous problems into scalable analytics and automation.
 
 I believe complexity must earn its place. The best solutions are often the ones that prioritize **reliability, clarity, and business value** over technical hype.
 
