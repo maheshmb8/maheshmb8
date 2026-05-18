@@ -32,9 +32,7 @@ I believe complexity must earn its place. The best solutions are often the ones 
 ### 🤖 Machine Learning & Computer Vision
 - Feature engineering and model evaluation  
 - Image quality analysis and pose estimation  
-- Applying ML **only where it clearly adds value**  
-
-### ⚙️ Engineering & Automation
+- Applying ML **only where it clearly adds value** ### ⚙️ Engineering & Automation
 - Scalable, fault-tolerant pipelines  
 - Retry, backoff, and failure-handling strategies  
 - Concurrent processing for large data and image workloads  
@@ -43,6 +41,18 @@ I believe complexity must earn its place. The best solutions are often the ones 
 ---
 
 ## 📌 Featured Projects
+
+### ⚖️ BuyOpsAudit
+An enterprise data reconciliation pipeline to automate compliance audits for merchandising and buying operations using:
+- Freshservice REST APIs for nested payload ingestion
+- Snowflake data warehousing for truth records cross-referencing
+- Thread pools & localized DuckDB joins to execute a 50+ custom checkpoint matrix
+
+Built to eliminate workflow anomalies and auto-generate multi-sheet compliance scorecards, reducing annual manual auditing effort by **1,500+ hours**.
+
+👉 `BuyOpsAudit`
+
+---
 
 ### 🧍 Pose Angle Intelligence  
 A computer vision pipeline to classify human image orientation using:
@@ -81,9 +91,7 @@ I write about **data, leadership, and pragmatic decision-making** on Medium — 
 ---
 
 ## 🎯 My Working Philosophy
-- **Reliability over hype**  
-- **Outcome > output**  
-- **Simple solutions scale better than clever ones**
+- **Reliability over hype** - **Outcome > output** - **Simple solutions scale better than clever ones**
 
 ---
 
